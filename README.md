@@ -1,14 +1,27 @@
-Buyers Trades
+Buyers trades
 ===============
 
 | date | location | trader | coin | amnt | status |
 | ---------- | -------- | ------ | ---- | ---- | ------ |
 | 2018-02-05 | Osaka | jewbear | btc | 0.1M yen | open |
 
-Sellers Trades
+Sellers trades
 ===============
 
 Need to work on this
+
+Executed trades
+===================
+
+currently none
+
+Rates
+======
+
+-3% for sellers
++6% for buyers
+
+unless otherwise stated
 
 Who can post trades
 ======================
