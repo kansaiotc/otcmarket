@@ -49,13 +49,6 @@ Our strength is in
 
 - We will track post the trades to the top of this page and move instructions to another file
 
-How to contact us
-===================
-
-We will post messenger contact info here. This will use an encrypted anonymous messenger app. So not LINE, fb messenger, nor email. We will also phase out our use of telegram desktop messenger. When i2p protocal messengers become available we will favor those.
-
-Will go with xmpp first. And also look at discord
-
 Censorship resistant
 =========================
 
